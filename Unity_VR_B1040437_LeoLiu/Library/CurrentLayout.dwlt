@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 494}
+  m_MinSize: {x: 950, y: 472}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -45,7 +45,7 @@ MonoBehaviour:
     y: 0
     width: 1440
     height: 817
-  m_MinSize: {x: 950, y: 494}
+  m_MinSize: {x: 950, y: 472}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -113,10 +113,10 @@ MonoBehaviour:
     y: 30
     width: 1440
     height: 767
-  m_MinSize: {x: 913, y: 444}
-  m_MaxSize: {x: 22008, y: 10022}
+  m_MinSize: {x: 909, y: 422}
+  m_MaxSize: {x: 22004, y: 10022}
   vertical: 0
-  controlID: 1530
+  controlID: 9662
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -138,10 +138,10 @@ MonoBehaviour:
     y: 0
     width: 725
     height: 767
-  m_MinSize: {x: 202, y: 444}
-  m_MaxSize: {x: 4002, y: 8044}
+  m_MinSize: {x: 202, y: 422}
+  m_MaxSize: {x: 4002, y: 8022}
   vertical: 1
-  controlID: 1531
+  controlID: 9705
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -389,9 +389,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 212.88052, y: 120.61874, z: 351.47128}
+    m_Target: {x: -24.787445, y: 5.5535507, z: 21.839546}
     speed: 2
-    m_Value: {x: 212.88052, y: 120.61874, z: 351.47128}
+    m_Value: {x: -24.787445, y: 5.5535507, z: 21.839546}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -420,13 +420,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.006351769, y: -0.73104894, z: 0.0068057245, w: -0.6822635}
+    m_Target: {x: -0.21009494, y: -0.751489, z: 0.28312877, w: -0.5576435}
     speed: 2
-    m_Value: {x: 0.006351769, y: 0.73104894, z: -0.0068057245, w: 0.68226355}
+    m_Value: {x: 0.21009494, y: 0.75148904, z: -0.28312877, w: 0.5576435}
   m_Size:
-    m_Target: 256.18896
+    m_Target: 41.23851
     speed: 2
-    m_Value: 268.2607
+    m_Value: 41.23851
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -482,7 +482,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 8804ffffc804ffffc009ffff8838ffff5439ffff48910000b6930000
+      m_ExpandedIDs: b042fdfff442fdff9e44fdff6096feffa296feff4c98feffdaadfeff10b9feff24b9feff2cdffeff1211ffff8213ffff9065ffff8a68ffff8a6effff1aeeffff8ea000003abf00003ec6000028cc0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -580,11 +580,11 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/SteamVR
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/SteamVR
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\User\Desktop\TUMT_Unity_VR_B1040437_LeoLiu\Unity_VR_B1040437_LeoLiu
   m_LockTracker:
@@ -593,7 +593,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000268b000000ca9a3b
+    m_ExpandedIDs: 000000009a340000f47f0000f67f0000a08f00000a9e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -621,7 +621,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000268b000000ca9a3b
+    m_ExpandedIDs: 000000009a340000f47f0000f67f0000a08f00000a9e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -673,6 +673,6 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 2520}
+    m_ScrollPosition: {x: 0, y: 2607}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 110
